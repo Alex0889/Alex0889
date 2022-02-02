@@ -7,7 +7,7 @@ I am constantly learning and incorporating new techniques into my work.
 
 - 👀 I’m interested in JavaScript, Typescript, React.js, Redux, Redux Toolkit, Scss, ect.
 
-- My CV - [Link](https://drive.google.com/file/d/1JNLZzi_NDYwldsOxYyvsKvpTMO_WHzcH/view?usp=sharing)
+- My CV - [Link](https://drive.google.com/file/d/1Ds85DtjuZOk1LICGThGxsvUQNy4-fRB6/view?usp=sharing)
 - My pet-projects: 
 	+ [Weather app](https://alex0889-weather-app.netlify.app/) - The weather application was developed using React.js as a frontend library, Typescript, Redux Toolkit as a
 			state manager and SCSS as styling preprocessor.
